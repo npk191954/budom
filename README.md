@@ -1,2 +1,4 @@
-# budom
-Business Domain Model Design
+# Budom
+Business Domain Model Design，业务领域模型设计。
+
+
